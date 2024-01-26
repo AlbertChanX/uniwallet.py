@@ -1,0 +1,2 @@
+# uniwallet.py
+common wallet
